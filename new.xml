@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!DOCTYPE inf_about_me>
+	<inf_about_me name="Kris" age="100000" my_animal="0" salary="10000000">
+	<title>Информация о себе
+	</title>
+	</inf_about_me>
