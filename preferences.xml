@@ -1,0 +1,7 @@
+XML.
+	<?xml version="1.0" encoding="utf-8"?>
+	<!DOCTYPE preferens>
+	    < preferens film="null" tv_series="null" food="cake" 	season="spring" country="Очень хочу посетить все страны мира. Интересно увидеть 	как живут местные жители.Узнать очем мечтают, чем живут.">
+	<title> Мои предпочтения
+	</title>
+	</preferens>	

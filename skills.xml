@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!DOCTYPE Инструменты>
+	<Интрументы>
+		<skill>Postman</skill>
+         	<skill>Jmeter</skill>
+           	<skill>CheckLists</skill>
+         	<skill>Bug Reports</skill>
+         	<skill>SQL</skill>
+        	<skill>Charles</skill>
+       		<skill>Mobile testing</skill>
+	</Инструменты>
