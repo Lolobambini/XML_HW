@@ -1,0 +1,50 @@
+ <?xml version="1.0" encoding="utf-8"?>
+   <!DOCTYPE bug_report>
+   <Bug report>
+	<form>
+ 	 <title>Wellcome is spelled incorrectly</title>
+	 <description>You should change it to 'Welcome'</description>
+	</form>
+	<location>
+ 	 <ancestorOrigins>{}</ancestorOrigins>
+  	 <href>http://localhost:4000/</href>
+	 <origin>http://localhost:4000</origin>
+ 	 <protocol>http:</protocol>
+ 	 <host>localhost:4000</host>
+ 	 <hostname>localhost</hostname> 
+ 	 <port>4000</port>
+ 	 <pathname>/</pathname>
+ 	 <search> ""</search>
+  	 <hash> ""</hash>
+	</location>
+	<screenshotSize>width="1262.46875"height="867"</screenshotSize>
+	<notes>
+	  <id>7ebcf985-f7dc-4b78-9e17-b346dd910a0a</id>
+	  <pinHead>x='100'y='100'</pinHead>
+	  <selected>true</selected>
+	  <text>Here is a note</text>
+	  <size>width="64"height="32"</size>
+	</notes>
+	<buffer>
+	   <when>2020-10-24T14:28:06.855Z</when>
+	   <level>log</level>
+	   <data> 
+	      %cUserBug Report=BugButton %cattaching modal holder%c +0ms
+	      color=#3399FF
+	      color=inherit
+	      color=#3399FF
+           </data>
+	 </buffer>
+	<networkRequests>
+	    <name>http://localhost:4000/styles.css</name>
+	    <initiatorType>link</initiatorType>
+	    <redirectTime>0,S</redirectTime>
+	    <dnsTime>0</dnsTime>
+ 	    <tcpHandshakeTime>0</tcpHandshakeTime>
+	    <secureConnectionTime>0</secureConnectionTime>
+	    <responseTime>0.4600000102072954</responseTime>
+	    <fetchUntilResponseEndTime>22.409999975934625</fetchUntilResponseEndTime>
+	    <requestStartUntilResponseEnd>0.6849999772384763</requestStartUntilResponseEnd>
+	    <startUntilResponseEnd>22.409999975934625 </startUntilResponseEnd>
+	  </networkRequests>
+ 	<localTime>Sat Oct 24 2020 09:37:07 GMT-0500 (Central Daylight Time)</localTime> 
